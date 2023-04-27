@@ -1,6 +1,7 @@
 <?php
-    echo "hola mundo"
-echo "este es mi primer codigo"
+    echo "hola mundo";
+echo "este es mi primer codigo";
+echo "despedida":
 
 
 
